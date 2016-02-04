@@ -6,6 +6,7 @@ Perform tests on a pre-existing web-based application that reads RSS feeds.
 
 - Clone the repo to your local drive
 - Double click on index.html to view the application in your browser
+- To view it without cloning- click [here](http://vidban.github.io/Testing-FENDP6/)
 
 ## What I learned?
 
