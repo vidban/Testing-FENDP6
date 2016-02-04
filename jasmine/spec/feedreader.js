@@ -35,7 +35,7 @@ $(function() {
             for (var x =0; x < allFeeds.length; x++) {
                 expect(allFeeds[x].url).toBeDefined();
                 expect(allFeeds[x].url.length).not.toBe(0);
-            };
+            }
         });
 
 
@@ -48,7 +48,7 @@ $(function() {
             for (var x =0; x < allFeeds.length; x++) {
                 expect(allFeeds[x].name).toBeDefined();
                 expect(allFeeds[x].name.length).not.toBe(0);
-            };
+            }
         });
 
     });
@@ -162,7 +162,7 @@ $(function() {
                 expect(newHeading).not.toEqual(pheading);
 
                 done();
-            })
+            });
         });
     });
 
